@@ -1,0 +1,6 @@
+module Pods_Communa_V {
+  umbrella header "Pods-Communa_V-umbrella.h"
+
+  export *
+  module * { export * }
+}

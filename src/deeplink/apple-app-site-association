@@ -1,0 +1,11 @@
+{
+    “applinks”: {
+        “apps”: [],
+        “details”: [
+            {
+                “appID”: “3RTDW28U6N.org.reactjs.native.example.Communa-V”,
+                “paths”: [“*”],
+            }
+        ]
+    }
+}

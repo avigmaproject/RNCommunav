@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Communa_V/Pods-Communa_V-frameworks.sh
+${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework
+${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL

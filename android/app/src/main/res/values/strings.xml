@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Communa_V</string>
+    <string name="facebook_app_id">2891035427877892</string>
+    <string name="fb_login_protocol_scheme">fb2891035427877892</string>
+    <string name="facebook_client_token">c2749881b27c506f6c8415750142d302</string>
+    <string name="server_client_id">AIzaSyBXD-Pi_B5zU_DE6K6VwBmUSUY-hV_5lWQ</string>
+</resources>
